@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}body{background-color:tomato;color:#000;font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Open Sans,Helvetica Neue,sans-serif}.book h1{color:blue;margin-top:.5rem}.booklist{grid-gap:2rem;display:grid;gap:2rem;margin:5rem auto;max-width:1170px;width:90vw}@media screen and (min-width:768px){.booklist{grid-template-columns:repeat(3,1fr)}}.book{background:#fff;border-radius:1rem;padding:1rem 2rem}
+/*# sourceMappingURL=main.1256a83f.css.map*/
